@@ -1,0 +1,1 @@
+%{"random": {:git, "https://github.com/yuce/random.git", "60eb96ca3bf9b480389a1d8b05222ae74a559c17", [tag: "v0.1"]}}

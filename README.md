@@ -3,13 +3,15 @@ Guess
 
 Guess game in elixir for fun and profit
 
-* How to use
+How to use
+===========
 
-- './game'
-- Follow the on-screen instructions
-- ???
-- Profit
+    - './game'
+    - Follow the on-screen instructions
+    - ???
+    - Profit
 
-* How to build
+How to build
+===========
 
-- 'mix escript.build'
+    - 'mix escript.build'
